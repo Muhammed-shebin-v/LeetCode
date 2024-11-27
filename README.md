@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2401-count-asterisks](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2401-count-asterisks) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3636-check-balanced-string](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/3636-check-balanced-string) |
 ## Math
