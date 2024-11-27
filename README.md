@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3371-harshad-number](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/3371-harshad-number) |
+## Array
+|  |
+| ------- |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+## Sorting
+|  |
+| ------- |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
