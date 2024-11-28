@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Sorting
 |  |
 | ------- |
