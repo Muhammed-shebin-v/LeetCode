@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
