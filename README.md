@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/1656-count-good-triplets) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
