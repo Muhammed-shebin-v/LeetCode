@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2401-count-asterisks](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2401-count-asterisks) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0013-roman-to-integer) |
 | [3371-harshad-number](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/3371-harshad-number) |
 ## Array
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Simulation
