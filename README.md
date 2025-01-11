@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0070-climbing-stairs) |
 | [3371-harshad-number](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/3371-harshad-number) |
 ## Array
 |  |
@@ -69,9 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0338-counting-bits) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
