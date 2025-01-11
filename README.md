@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0070-climbing-stairs) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3371-harshad-number](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/3371-harshad-number) |
 ## Array
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0088-merge-sorted-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/1656-count-good-triplets) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
