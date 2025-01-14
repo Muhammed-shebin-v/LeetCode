@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0412-fizz-buzz) |
 | [2401-count-asterisks](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2401-count-asterisks) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3371-harshad-number](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/3371-harshad-number) |
 | [3567-convert-date-to-binary](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/3567-convert-date-to-binary) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0412-fizz-buzz) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Linked List
 |  |
