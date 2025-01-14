@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1797-goal-parser-interpretation](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [2401-count-asterisks](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2401-count-asterisks) |
+| [2502-sort-the-people](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2502-sort-the-people) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/1656-count-good-triplets) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2502-sort-the-people](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2502-sort-the-people) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -45,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2502-sort-the-people](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2502-sort-the-people](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2502-sort-the-people) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Simulation
 |  |
