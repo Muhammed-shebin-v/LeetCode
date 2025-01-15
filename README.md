@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
