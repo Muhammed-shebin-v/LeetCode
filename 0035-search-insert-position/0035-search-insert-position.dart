@@ -4,20 +4,11 @@ class Solution {
     int endidx = nums.length-1;
     int middle=0;
     while(startidx <= endidx){
-       middle=startidx+(endidx-startidx)~/2;
-      if(nums[middle]==target){
-        return middle;
-      }
-      else if(nums[middle]>target){
-        endidx=middle-1;
-      }
-      else{
-        startidx=middle+1;
-      }
+      middle=startidx+(endidx-startidx)~/2;
+      if(nums[middle]==target)return middle;
+      else if(nums[middle]>target)endidx=middle-1;
+      else startidx=middle+1;
     }
-    if(nums[middle]>target){
-        return middle;
-    }
-    return middle+1;
+    if(nums[middle]>target)return middle;return middle+1;
   }
   }
