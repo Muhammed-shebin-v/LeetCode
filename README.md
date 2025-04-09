@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0412-fizz-buzz) |
 | [1205-defanging-an-ip-address](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1797-goal-parser-interpretation](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/1797-goal-parser-interpretation) |
+| [2032-largest-odd-number-in-string](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2401-count-asterisks](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2401-count-asterisks) |
 | [2502-sort-the-people](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2502-sort-the-people) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2032-largest-odd-number-in-string](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3371-harshad-number](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/3371-harshad-number) |
 | [3567-convert-date-to-binary](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Array
@@ -113,5 +115,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2756-buy-two-chocolates](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2756-buy-two-chocolates) |
 <!---LeetCode Topics End-->
