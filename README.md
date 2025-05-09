@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2159-two-out-of-three](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2159-two-out-of-three) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2502-sort-the-people) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2756-buy-two-chocolates](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2159-two-out-of-three](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2159-two-out-of-three) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2502-sort-the-people) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Simulation
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
