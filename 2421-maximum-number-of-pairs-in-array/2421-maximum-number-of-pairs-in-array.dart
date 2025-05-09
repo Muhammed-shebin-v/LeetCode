@@ -1,15 +1,29 @@
+
 class Solution {
   List<int> numberOfPairs(List<int> nums) {
-    Map<int, int> frequencyMap = {};
     int pairs = 0;
-    int leftovers = 0;
-    for (int num in nums) {
-      frequencyMap[num] = (frequencyMap[num] ?? 0) + 1;
+    int i = 0;
+
+    while (i < nums.length) {
+      bool foundPair = false;
+
+      for (int j = i + 1; j < nums.length; j++) {
+        if (nums[i] == nums[j]) {
+          nums.removeAt(j); 
+          nums.removeAt(i);
+          pairs++;
+          foundPair = true;
+          break; 
+        }
+      }
+
+      if (foundPair) {
+        i = 0; 
+      } else {
+        i++; 
+      }
     }
-    frequencyMap.forEach((num, count) {
-      pairs += count ~/ 2;
-      leftovers += count % 2;
-    });
-    return [pairs, leftovers];
+
+    return [pairs, nums.length]; 
   }
 }
