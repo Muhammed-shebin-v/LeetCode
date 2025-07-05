@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1797-goal-parser-interpretation](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [2032-largest-odd-number-in-string](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2401-count-asterisks](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2401-count-asterisks) |
 | [2502-sort-the-people](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2502-sort-the-people) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2159-two-out-of-three](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2159-two-out-of-three) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2502-sort-the-people) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Muhammed-shebin-v/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Dynamic Programming
 |  |
